@@ -2,7 +2,7 @@
 
 Welcome to the Task Manager application! This is a simple yet powerful tool built with Python and Tkinter that allows you to manage your tasks efficiently. 
 
-![Task Manager Screenshot](screenshot.png)
+![Task Manager Screenshot](taskmanger.png)
 
 ## 🚀 Features
 
